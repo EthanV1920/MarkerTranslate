@@ -18,7 +18,7 @@ To run this script, you need to have the following:
 
 1. Ensure the [DaVinci Resolve Studio](https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion) is installed to allow for scripting
 2. Ensure that [Python 3.6 or greater](https://www.python.org/) is installed
-3. Put the contents of "Marker Translate" in to the folder that corrisponds to your system<br>
+3. Put the contents of ["Marker Translate"](https://github.com/EthanV1920/MarkerTranslate/tree/main/Marker%20Translate) in to the folder that corrisponds to your system<br>
     Mac OS X:
       - All users: /Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts
       - Specific user:  /Users/<UserName>/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts<br>
